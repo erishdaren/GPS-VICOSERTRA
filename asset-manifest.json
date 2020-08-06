@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GPS-VICOSERTRA/static/css/main.b8ebb854.chunk.css",
+    "main.js": "/GPS-VICOSERTRA/static/js/main.1aa2da0a.chunk.js",
+    "main.js.map": "/GPS-VICOSERTRA/static/js/main.1aa2da0a.chunk.js.map",
+    "runtime-main.js": "/GPS-VICOSERTRA/static/js/runtime-main.b1a04e69.js",
+    "runtime-main.js.map": "/GPS-VICOSERTRA/static/js/runtime-main.b1a04e69.js.map",
+    "static/js/2.7cf1680a.chunk.js": "/GPS-VICOSERTRA/static/js/2.7cf1680a.chunk.js",
+    "static/js/2.7cf1680a.chunk.js.map": "/GPS-VICOSERTRA/static/js/2.7cf1680a.chunk.js.map",
+    "index.html": "/GPS-VICOSERTRA/index.html",
+    "precache-manifest.b4f4c514cef95f3e89edb81dd3c4c47f.js": "/GPS-VICOSERTRA/precache-manifest.b4f4c514cef95f3e89edb81dd3c4c47f.js",
+    "service-worker.js": "/GPS-VICOSERTRA/service-worker.js",
+    "static/css/main.b8ebb854.chunk.css.map": "/GPS-VICOSERTRA/static/css/main.b8ebb854.chunk.css.map",
+    "static/js/2.7cf1680a.chunk.js.LICENSE.txt": "/GPS-VICOSERTRA/static/js/2.7cf1680a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1a04e69.js",
+    "static/js/2.7cf1680a.chunk.js",
+    "static/css/main.b8ebb854.chunk.css",
+    "static/js/main.1aa2da0a.chunk.js"
+  ]
+}
