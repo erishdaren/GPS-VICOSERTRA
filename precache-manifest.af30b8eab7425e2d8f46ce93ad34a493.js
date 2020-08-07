@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d7f172e6a436bf2bfbcc96085b9d09d",
+    "revision": "58d8184f3497ec8add1fc734fd69d7d0",
     "url": "/GPS-VICOSERTRA/index.html"
   },
   {
-    "revision": "46b63484ae09c06696f6",
-    "url": "/GPS-VICOSERTRA/static/css/main.fcfc3d24.chunk.css"
+    "revision": "72fdb614f7011d5261b8",
+    "url": "/GPS-VICOSERTRA/static/css/main.b5c8be08.chunk.css"
   },
   {
     "revision": "04edd3890c473b99d5f9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GPS-VICOSERTRA/static/js/2.af9e5357.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46b63484ae09c06696f6",
+    "revision": "72fdb614f7011d5261b8",
     "url": "/GPS-VICOSERTRA/static/js/main.301b40c4.chunk.js"
   },
   {
