@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GPS-VICOSERTRA/precache-manifest.b4f4c514cef95f3e89edb81dd3c4c47f.js"
+  "/GPS-VICOSERTRA/precache-manifest.ce05b342cb1ef980800d383c4b43de3e.js"
 );
 
 self.addEventListener('message', (event) => {
