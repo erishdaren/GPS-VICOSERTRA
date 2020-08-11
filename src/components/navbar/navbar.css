@@ -1,0 +1,53 @@
+.navbar {
+  flex-grow: 1;
+}
+.logotipo {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.logo {
+  margin-top: 10px;
+  width: 150px;
+  height: 50px;
+}
+.searchicon {
+  color: #2980B9;
+  margin-right: 10px;
+  margin-left: 5px;
+  height: 1.1876em;
+  padding: "6px 0 7px";
+}
+.search {
+  background: #ffebee;
+  width: 500px;
+  border-radius: 3px;
+  padding: 5px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+.input {
+  width: 100%;
+  color:#2980B9 ;
+}
+.toolbar {
+  background: #cf1a05;
+  display: flex;
+  justify-content: space-between;
+}
+/* estilo para la notificacion en numero*/
+.MuiBadge-colorPrimary{
+    background: #FED330;
+    color: #640000;
+}
+.notificacion {
+    color: white;;
+}
+.iconos {
+    display: flex;
+    justify-content: space-between;
+        width: 125px;   
+}
